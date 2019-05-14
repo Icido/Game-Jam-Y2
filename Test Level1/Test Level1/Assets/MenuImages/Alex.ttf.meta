@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2a86fe2b478b48d4fb7fc87358322968
+timeCreated: 1525020391
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alex
+  fontNames:
+  - Alex
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

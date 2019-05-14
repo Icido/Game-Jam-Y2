@@ -1,0 +1,74 @@
+Sound Effects
+
+Walking sounds
+https://www.zapsplat.com/music/footsteps-person-walking-on-dirt/
+
+Jump sounds(landing)	
+https://www.zapsplat.com/music/body-or-body-part-fall-to-ground/
+
+Climbing Ladder
+(Merge both into looped sound)
+https://www.zapsplat.com/music/metal-step-ladder-foot-hit-step-hard-1/
+https://www.zapsplat.com/music/metal-step-ladder-foot-hit-step-hard-2/
+
+overworld enemy sounds?
+
+Inventory Open/Close - Reverse sound for close?
+https://www.zapsplat.com/music/childs-small-case-zipper-2/
+
+Menu Music
+
+
+Battle music
+
+
+Battle Attack sound effects
+Melee
+	Taunt
+	https://www.zapsplat.com/music/human-laughter-hearty-chuckle-shout-shriek/
+
+	Sentinel(Block/guard)
+	https://www.zapsplat.com/music/male-grunt-shout-2/
+
+	Shield Slam(Choose one)
+	https://www.zapsplat.com/music/punch-large-exaggerated-with-whoosh-and-male-groan/
+
+	Shiv 
+	https://www.zapsplat.com/music/knife-slice-slash-skin-fleshy-wound-squelch-of-blood-and-guts-1/
+
+	Quick Attack
+	https://www.zapsplat.com/music/sword-swing-swoosh-fast-4/
+	
+	Shadow Strike
+	https://www.zapsplat.com/music/sword-stab-through-chain-mail-into-flesh-quick-squelchy-slice-accompanied-by-a-loud-shing-with-ring-off-close-perspective/
+	
+	Meditate
+
+
+Spells
+	Firebolt
+	https://www.zapsplat.com/music/magic-spell-build-up-powerful/
+
+	Flaming Orb
+	https://www.zapsplat.com/music/magic-wand-reversed-whoosh-build-spell-1/
+
+	Heal/Group Heal
+	https://www.zapsplat.com/music/fantasy-game-spell-00/
+	
+	Revive 
+	https://www.zapsplat.com/music/magic-wand-ping-7/
+
+	Smite(beam of light)
+	https://www.zapsplat.com/music/magic-wand-twinkle-spell-appear-4/
+
+Potion Drink	
+https://www.zapsplat.com/music/cartoon-character-drink-glug-gulp/
+
+Overworld item pickups sound effect
+https://www.zapsplat.com/music/cartoon-pop-1/
+
+Overworld music(Different Area Music- Cave Noises etc.)
+https://www.youtube.com/watch?v=LgtRqwfJGbI - Overworld
+
+
+

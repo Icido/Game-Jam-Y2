@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e67da3849e58c014b807ff39c20e08e2
+timeCreated: 1524317939
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inv1: {instanceID: 0}
+  - knight: {instanceID: 0}
+  - party: {instanceID: 0}
+  - partyHUD: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - invButton: {instanceID: 0}
+  - battlecam: {instanceID: 0}
+  - openSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

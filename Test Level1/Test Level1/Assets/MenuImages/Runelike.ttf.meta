@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8cbfb9854b6d61f408a784a4bca6e18c
+timeCreated: 1524237091
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Runelike
+  fontNames:
+  - Runelike
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

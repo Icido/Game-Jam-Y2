@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: ec6906df2f69b14408e7fe00c3e45d20
+timeCreated: 1524581210
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_0
+    21300002: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_1
+    21300004: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_2
+    21300006: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_3
+    21300008: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_4
+    21300010: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_5
+    21300012: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_6
+    21300014: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_7
+    21300016: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_8
+    21300018: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_9
+    21300020: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_10
+    21300022: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_11
+    21300024: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_12
+    21300026: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_13
+    21300028: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_14
+    21300030: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_15
+    21300032: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_16
+    21300034: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_17
+    21300036: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_18
+    21300038: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_19
+    21300040: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_20
+    21300042: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_21
+    21300044: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_22
+    21300046: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_23
+    21300048: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_24
+    21300050: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_25
+    21300052: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_26
+    21300054: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_27
+    21300056: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_28
+    21300058: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_29
+    21300060: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_30
+    21300062: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_31
+    21300064: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_32
+    21300066: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_33
+    21300068: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_34
+    21300070: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_35
+    21300072: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_36
+    21300074: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_37
+    21300076: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_38
+    21300078: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_39
+    21300080: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_dungeon_tileset_by_jani_makinen_gfx0_2016_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
